@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TalentData } from "../../TalentContext";
 import { talentText, requireAll } from "../../utils";
 

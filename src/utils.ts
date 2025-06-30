@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const talentText = (
   string: TemplateStringsArray,
   ...expressions: (string | number)[][]

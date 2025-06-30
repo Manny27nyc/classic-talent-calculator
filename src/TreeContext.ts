@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createContext, useContext } from "react";
 
 export const TreeContext = createContext<string | null>(null);
